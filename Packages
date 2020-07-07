@@ -1,1 +1,14 @@
-
+Package: com.zumicts.quizzerup
+Name: QuizzerUp
+Version: 3.0
+Architecture: iphoneos-arm
+Description: QuizzerUp
+Maintainer: zumicts <me@aku.lu>
+Author: zumicts <me@aku.lu>
+Section: Tweak
+Depends: 
+Filename: debs/com.zumicts.quizzerup_3.0-5_iphoneos-arm.deb
+Size: 23576
+MD5sum: 186BE923A467840B95AAA516952ABAAB
+SHA1: 1087D280261409EC7522772B53FF03714E783DB2
+SHA256: 0F45540BC030A67CE3EDB24361685C037268108A5CCEB4EDE8F19B86106F3D3B
